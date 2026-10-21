@@ -21,9 +21,9 @@ I am advised by [Prof. Muning Wen](https://morning9393.github.io/), [Prof. Ying 
 **ISSTA 2026** · First author  
 [Paper](https://arxiv.org/pdf/2607.17286) · [Code](https://github.com/code-philia/IssueExec)
 
-**[EditFlow · Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows](https://dl.acm.org/doi/abs/10.1145/3798249)**  
-**OOPSLA 2026**  
-[Paper](https://dl.acm.org/doi/abs/10.1145/3798249)
+**[Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses](https://icml.cc/virtual/2026/poster/60674)**  
+**ICML 2026** · Co-first author  
+[Paper](https://icml.cc/virtual/2026/poster/60674)
 
 [More publications on my homepage ↗](https://awgiagia.github.io/#-publications)
 
