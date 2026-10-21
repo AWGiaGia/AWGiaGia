@@ -1,17 +1,9 @@
 <a href="https://awgiagia.github.io/">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/header-mobile.svg" />
-    <img src="assets/header.svg" alt="Jiawei Liu · AI4Code and post-training of LLMs · Shanghai Jiao Tong University" width="100%" />
+    <img src="assets/header.svg" alt="Jiawei Liu（刘嘉伟）" width="100%" />
   </picture>
 </a>
-
-<p align="center">
-  <a href="https://awgiagia.github.io/"><strong>Homepage ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://awgiagia.github.io/#-publications">Publications</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/MemTensor/MemT-1.0">MemT-1.0</a>
-</p>
 
 ## About me
 
@@ -35,14 +27,3 @@ I am advised by [Prof. Muning Wen](https://morning9393.github.io/), [Prof. Ying 
 
 [More publications on my homepage ↗](https://awgiagia.github.io/#-publications)
 
-## Open source
-
-| Project | What you'll find |
-| --- | --- |
-| [**swe-tools**](https://github.com/AWGiaGia/swe-tools) | Dynamic test-execution tracing for IssueExec on SWE-bench. |
-| [**structural-edit-distance**](https://github.com/AWGiaGia/structural-edit-distance) | Structure-aware matching and comparison of historical code edits. |
-| [**Awesome-Issue-Localization**](https://github.com/AWGiaGia/Awesome-Issue-Localization) | Papers and benchmarks on code localization and automated issue resolution. |
-
-<p align="center">
-  <sub>Get in touch &nbsp; · &nbsp; amberwabi2003@sjtu[dot]edu[dot]cn</sub>
-</p>
