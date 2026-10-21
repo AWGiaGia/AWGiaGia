@@ -1,9 +1,12 @@
 <a href="https://awgiagia.github.io/">
-  <img src="assets/header.svg" alt="Jiawei Liu · AI4Code and post-training of LLMs · Shanghai Jiao Tong University" width="100%" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/header-mobile.svg" />
+    <img src="assets/header.svg" alt="Jiawei Liu · AI4Code and post-training of LLMs · Shanghai Jiao Tong University" width="100%" />
+  </picture>
 </a>
 
 <p align="center">
-  <a href="https://awgiagia.github.io/"><strong>Academic Homepage ↗</strong></a>
+  <a href="https://awgiagia.github.io/"><strong>Homepage ↗</strong></a>
   &nbsp; · &nbsp;
   <a href="https://awgiagia.github.io/#-publications">Publications</a>
   &nbsp; · &nbsp;
