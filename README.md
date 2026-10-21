@@ -14,7 +14,7 @@ I am advised by [Prof. Muning Wen](https://morning9393.github.io/), [Prof. Ying 
 ## Selected research
 
 **[MemT-1.0 · Towards Memory-Native Evolution](https://arxiv.org/pdf/2610.26825)**  
-**Technical Report 2026**  
+**Technical Report 2026** &nbsp; <img src="assets/core-contributor.svg" alt="core contributor" height="22" align="absmiddle" />  
 [Technical report](https://arxiv.org/pdf/2610.26825) · [Project](https://github.com/MemTensor/MemT-1.0)
 
 **[IssueExec · A Test-Driven Approach for Localizing Software Engineering Issues](https://arxiv.org/pdf/2607.17286)**  
