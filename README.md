@@ -1,7 +1,7 @@
 <a href="https://awgiagia.github.io/">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/header-mobile.svg" />
-    <img src="assets/header.svg" alt="Jiawei Liu（刘嘉伟）" width="100%" />
+    <img src="assets/header.svg" alt="Jiawei Liu（刘嘉伟） · AI4Code · AI4Kernel · post-training" width="100%" />
   </picture>
 </a>
 
